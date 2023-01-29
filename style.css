@@ -41,7 +41,7 @@ navbermenu ul li a:hover {
 /*maim*/
 main {
 
-    background-image: url("food1.1.jpg");
+    background-image: url("./src/food1.1.jpg");
     width: auto;
     height: 100vh;
     background-position: center;
@@ -90,7 +90,7 @@ main button:hover {
 
 /*food2*/
 #food2 {
-    background-image: url("food1.2.jpg");
+    background-image: url("./src/food1.2.jpg");
     height: 100vh;
     width: auto;
     background-position: center;
@@ -178,7 +178,7 @@ main button:hover {
 
 /*food3*/
 #food3 {
-    background-image: url("food1.3.jpg");
+    background-image: url("./src/food1.3.jpg");
     height: 100vh;
     width: auto;
     background-position: center;
