@@ -258,7 +258,7 @@ main button:hover {
 #food4 {
   background-color: #ffffff;
   width: auto;
-  height: 100vh;
+
 }
 .box-all4 {
   grid-template-rows: 250px 250px;
@@ -323,6 +323,17 @@ main button:hover {
   width: 260px;
   font-size: 18px;
 }
+footer
+{
+  background-color: #1a7db2;
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+
+
+/* media*/
 @media only screen and (max-width: 768px) {
   navbar {
     position: fixed;
