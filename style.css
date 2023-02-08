@@ -326,7 +326,7 @@ footer
 
 
 /* media*/
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 414px) {
   navbar {
     position: fixed;
     display: none;
@@ -542,60 +542,5 @@ footer
   }
 }
 
-@media only screen and (max-width: 1180px){
-  #food2 {
-    background-image: url("./src/food2.jpg");
-    height: 700px;
-    width: auto;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-
-
-  .food2-p1 {
-    font-size: 16px;
-    padding: 8px;
-    color: #41afea;
-    width: 500px;
-    height: 115px;
-    word-wrap: break-word;
-    text-align: justify;
-  }
-  
-  .food2-p2 {
-    font-size: 16px;
-    padding: 8px;
-    color: #41afea;
-    width: 500px;
-    height: 135px;
-    word-wrap: break-word;
-    text-align: justify;
-  }
-  
-  .food2-p3 {
-    font-size: 16px;
-    padding: 8px;
-    color: #41afea;
-    width: 500px;
-    height: 135px;
-    word-wrap: break-word;
-    text-align: justify;
-  }
-  
-  .food2-p4 {
-    font-size: 16px;
-    padding: 8px;
-    color: #41afea;
-    width: 500px;
-    height: 110px;
-    word-wrap: break-word;
-    text-align: justify;
-  }
-
-
-
-
-}
 
 
